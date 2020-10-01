@@ -2,4 +2,4 @@
 
 ## do "npm install" before use
 
-Serve front-end directory through fastify server
+Serve static front-end files through fastify server
